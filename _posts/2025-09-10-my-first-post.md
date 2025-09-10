@@ -1,3 +1,3 @@
-This is  my first bllog post on my blog
+This is  my first post on my blog
 
 <img src="/blog/images/firstpost.jpeg" alt="Picture of me">
