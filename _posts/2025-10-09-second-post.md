@@ -1,1 +1,1 @@
-Debugging is
+Debugging is a procces of analyzing,realizing problems and resolving errors or bugs in your code.Their can be different typr of errors in ur code like syntax errors that can stop ur code from running
