@@ -17,4 +17,31 @@ elif temperture > 50:
 elif temperture < 0:
     print("It's cold")
 ```
+ This code is incorrect and needs to be Debug because the code doesnt account for numbers 0 and 50.In order to fix this code you would have to Debug this code.If you Debug this code you would have to  Change the final elif to an else statement, this will make sure any temperature less than 50 is determined to be cold
 
+ ```Python
+ text = "Hello,World,my name is"
+ count = 0 
+ 
+ for char in text:
+    if char == "":
+        count += 1
+
+        print(count)
+```
+This code is incorrect and needs to be Debug because The if statement does not have a space causing the count to stay at 0 and not increase.To fix this  code you will have to Change the if statement to have spaces instead of 0 spaces so the count could increase by 1.
+
+```python
+print("give me a number")
+n = input()
+
+for num in range(1, n):
+    if num % 2 < 0:
+        print(num, "is even.")
+    else:
+        print(num, "is odd.")
+```
+This code is incorrect and needs to be Debug because the  Integer data type  is not included in The variable n.In order to fix/Debug this code you will have to Change the variable n  including an integer because users are entering numbers.
+
+
+These are all different ways on how you can debug code and why debugging is useful when dealing with programming languages.
